@@ -63,3 +63,5 @@ Intermediate/*
 DerivedDataCache/*
 BattleTank/Content/StarterContent/
 *.uasset
+*.umap
+*.jpg
